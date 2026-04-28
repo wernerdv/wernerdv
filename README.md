@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My contributions to open‑source projects:
+- Apache Ignite https://github.com/apache/ignite/commits?author=wernerdv
+- Apache Kafka https://github.com/apache/kafka/commits?author=wernerdv
+- Kafbat Kafka UI https://github.com/kafbat/kafka-ui/commits/main/?author=wernerdv
+
 <!--
 **wernerdv/wernerdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
